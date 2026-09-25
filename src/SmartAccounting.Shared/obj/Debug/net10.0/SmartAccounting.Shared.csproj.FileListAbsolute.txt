@@ -1,0 +1,24 @@
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.deps.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.sourcelink.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\refint\SmartAccounting.Shared.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\ref\SmartAccounting.Shared.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.deps.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\bin\Debug\net10.0\SmartAccounting.Shared.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.AssemblyInfoInputs.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.AssemblyInfo.cs
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.csproj.CoreCompileInputs.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.sourcelink.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\refint\SmartAccounting.Shared.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\ref\SmartAccounting.Shared.dll

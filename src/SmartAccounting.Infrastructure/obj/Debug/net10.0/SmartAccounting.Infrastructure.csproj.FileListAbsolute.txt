@@ -1,0 +1,132 @@
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.deps.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.runtimeconfig.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Application.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Domain.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Application.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Domain.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.sourcelink.json
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAcc.D618B91D.Up2Date
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\refint\SmartAccounting.Infrastructure.dll
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.pdb
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.genruntimeconfig.cache
+C:\Users\Windows 10\source\repos\mgdesouza\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\ref\SmartAccounting.Infrastructure.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.deps.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.runtimeconfig.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Infrastructure.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Application.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Domain.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Application.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\bin\Debug\net10.0\SmartAccounting.Domain.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.csproj.AssemblyReference.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.AssemblyInfoInputs.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.AssemblyInfo.cs
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.sourcelink.json
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAcc.D618B91D.Up2Date
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\refint\SmartAccounting.Infrastructure.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.pdb
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\SmartAccounting.Infrastructure.genruntimeconfig.cache
+C:\Softwares\SmartAccounting\src\SmartAccounting.Infrastructure\obj\Debug\net10.0\ref\SmartAccounting.Infrastructure.dll

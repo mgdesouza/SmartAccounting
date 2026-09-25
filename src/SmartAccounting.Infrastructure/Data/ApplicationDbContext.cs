@@ -3,58 +3,63 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SmartAccounting.Domain.Entities;
 
-namespace SmartAccounting.Infrastructure.Data;
-
-public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityRole<int>, int>
+namespace SmartAccounting.Infrastructure.Data
 {
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-        : base(options)
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, Guid>
     {
-    }
-
-    public DbSet<Empresa> Empresas => Set<Empresa>();
-    public DbSet<Exercicio> Exercicios => Set<Exercicio>();
-
-    protected override void OnModelCreating(ModelBuilder builder)
-    {
-        base.OnModelCreating(builder);
-
-        builder.Entity<Empresa>(entity =>
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
-            entity.ToTable("Empresa");
-            entity.HasKey(x => x.EmpresaId);
-            entity.Property(x => x.Cnpj).HasMaxLength(14).IsRequired();
-            entity.Property(x => x.RazaoSocial).HasMaxLength(200).IsRequired();
-            entity.Property(x => x.NomeFantasia).HasMaxLength(200);
-            entity.HasIndex(x => x.Cnpj).IsUnique();
-        });
+        }
 
-        builder.Entity<Exercicio>(entity =>
+        public DbSet<Empresa> Empresas => Set<Empresa>();
+        public DbSet<Exercicio> Exercicios => Set<Exercicio>();
+
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            entity.ToTable("Exercicio");
-            entity.HasKey(x => x.ExercicioId);
-            entity.Property(x => x.Status).HasMaxLength(30).IsRequired();
-            entity.Property(x => x.ArquivoECD).HasMaxLength(500);
+            base.OnModelCreating(builder);
 
-            entity.HasOne(x => x.Empresa)
-                .WithMany(x => x.Exercicios)
-                .HasForeignKey(x => x.EmpresaId)
-                .OnDelete(DeleteBehavior.Restrict);
+            builder.Entity<Empresa>(entity =>
+            {
+                entity.ToTable("Empresa");
+                entity.HasKey(x => x.EmpresaId);
+                entity.Property(x => x.Cnpj).HasMaxLength(14).IsRequired();
+                entity.Property(x => x.RazaoSocial).HasMaxLength(200).IsRequired();
+                entity.Property(x => x.NomeFantasia).HasMaxLength(200);
+                entity.HasIndex(x => x.Cnpj).IsUnique();
+            });
 
-            entity.HasIndex(x => new { x.EmpresaId, x.Ano }).IsUnique();
-        });
+            builder.Entity<Exercicio>(entity =>
+            {
+                entity.ToTable("Exercicio");
+                entity.HasKey(x => x.ExercicioId);
+                entity.Property(x => x.Status).HasMaxLength(30).IsRequired();
+                entity.Property(x => x.ArquivoECD).HasMaxLength(500);
 
-        builder.Entity<ApplicationUser>(entity =>
-        {
-            entity.ToTable("Usuario");
-            entity.Property(x => x.Nome).HasMaxLength(200).IsRequired();
-        });
+                entity.HasOne(x => x.Empresa)
+                    .WithMany(x => x.Exercicios)
+                    .HasForeignKey(x => x.EmpresaId)
+                    .OnDelete(DeleteBehavior.Restrict);
 
-        builder.Entity<IdentityRole<int>>(entity => entity.ToTable("Role"));
-        builder.Entity<IdentityUserRole<int>>(entity => entity.ToTable("UsuarioRole"));
-        builder.Entity<IdentityUserClaim<int>>(entity => entity.ToTable("UsuarioClaim"));
-        builder.Entity<IdentityUserLogin<int>>(entity => entity.ToTable("UsuarioLogin"));
-        builder.Entity<IdentityRoleClaim<int>>(entity => entity.ToTable("RoleClaim"));
-        builder.Entity<IdentityUserToken<int>>(entity => entity.ToTable("UsuarioToken"));
+                entity.HasIndex(x => new { x.EmpresaId, x.Ano }).IsUnique();
+            });
+
+            builder.Entity<ApplicationUser>(entity =>
+            {
+                entity.ToTable("ApplicationUser");
+                entity.Property(x => x.Nome).HasMaxLength(200).IsRequired();
+            });
+
+            builder.Entity<ApplicationRole>(entity =>
+            {
+                entity.ToTable("Role");
+                entity.Property(x => x.Description).HasMaxLength(500);
+            });
+            builder.Entity<IdentityUserRole<Guid>>(entity => entity.ToTable("UserRole"));
+            builder.Entity<IdentityUserClaim<Guid>>(entity => entity.ToTable("UserClaim"));
+            builder.Entity<IdentityUserLogin<Guid>>(entity => entity.ToTable("UserLogin"));
+            builder.Entity<IdentityRoleClaim<Guid>>(entity => entity.ToTable("RoleClaim"));
+            builder.Entity<IdentityUserToken<Guid>>(entity => entity.ToTable("UserToken"));
+        }
     }
 }

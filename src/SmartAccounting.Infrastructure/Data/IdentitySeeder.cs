@@ -26,14 +26,14 @@ public static class IdentitySeeder
     ];
 
     public static async Task SeedAsync(
-        RoleManager<IdentityRole<int>> roleManager,
+        RoleManager<ApplicationRole> roleManager,
         UserManager<ApplicationUser> userManager)
     {
         foreach (var roleName in Roles)
         {
             if (!await roleManager.RoleExistsAsync(roleName))
             {
-                await roleManager.CreateAsync(new IdentityRole<int>(roleName));
+                await roleManager.CreateAsync(new ApplicationRole { Name = roleName });
             }
         }
 
