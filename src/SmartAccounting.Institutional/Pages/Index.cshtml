@@ -1,0 +1,167 @@
+@page
+@model SmartAccounting.Institutional.Pages.IndexModel
+@{
+    ViewData["Title"] = "Inteligência contábil para decisões melhores";
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom sticky-top shadow-sm">
+    <div class="container">
+        <a class="navbar-brand fw-bold d-flex align-items-center gap-2" href="#inicio">
+            <span class="brand-mark">↗</span>
+            SmartAccounting
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Abrir menu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="mainNav" class="collapse navbar-collapse">
+            <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-2">
+                <li class="nav-item"><a class="nav-link" href="#produto">Produto</a></li>
+                <li class="nav-item"><a class="nav-link" href="#ecd">ECD</a></li>
+                <li class="nav-item"><a class="nav-link" href="#analise">Análise</a></li>
+                <li class="nav-item"><a class="nav-link" href="#videos">Vídeos</a></li>
+                <li class="nav-item ms-lg-2"><a class="btn btn-dark px-4" href="/Account/Login">Entrar</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main id="inicio">
+    <section class="hero-section py-5 py-lg-6">
+        <div class="container py-4 py-lg-5">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-6">
+                    <span class="badge rounded-pill text-primary bg-primary-subtle px-3 py-2 mb-3">CONTABILIDADE ORIENTADA POR DADOS</span>
+                    <h1 class="display-3 fw-bold lh-1 mb-4">Transforme a ECD em decisões mais claras.</h1>
+                    <p class="lead text-secondary mb-4">O SmartAccounting organiza os dados contábeis, apresenta indicadores e cria uma visão gerencial para empresas, contadores e gestores.</p>
+                    <div class="d-flex flex-wrap gap-2">
+                        <a class="btn btn-primary btn-lg px-4" href="#produto">Conheça a plataforma</a>
+                        <a class="btn btn-outline-secondary btn-lg px-4" href="#videos">Ver demonstrações</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img class="img-fluid hero-image" src="~/site/hero-dashboard.svg" alt="Dashboard financeiro do SmartAccounting" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="border-top border-bottom bg-white py-3">
+        <div class="container">
+            <div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-2 text-center text-secondary small fw-semibold">
+                <div class="col">ECD</div><div class="col">Balancete</div><div class="col">DRE</div>
+                <div class="col">Balanço Patrimonial</div><div class="col">Indicadores</div><div class="col">Relatórios</div>
+            </div>
+        </div>
+    </section>
+
+    <section id="produto" class="py-5 py-lg-6">
+        <div class="container py-4">
+            <div class="text-center mx-auto section-heading mb-5">
+                <span class="text-primary fw-bold text-uppercase small">Uma plataforma, várias visões</span>
+                <h2 class="display-6 fw-bold mt-2">Do dado contábil à informação gerencial</h2>
+                <p class="text-secondary lead">Uma experiência web pensada para reduzir o trabalho manual de análise e aproximar os números da tomada de decisão.</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm p-4">
+                        <div class="feature-icon mb-3">↗</div>
+                        <h3 class="h5 fw-bold">Dashboards executivos</h3>
+                        <p class="text-secondary mb-0">Visões resumidas de resultado, patrimônio, evolução e principais indicadores para acompanhar a empresa.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm p-4">
+                        <div class="feature-icon mb-3">▣</div>
+                        <h3 class="h5 fw-bold">Relatórios contábeis</h3>
+                        <p class="text-secondary mb-0">Balancete, razão, DRE, balanço e outros relatórios organizados em uma experiência única.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm p-4">
+                        <div class="feature-icon mb-3">✦</div>
+                        <h3 class="h5 fw-bold">Análises inteligentes</h3>
+                        <p class="text-secondary mb-0">Indicadores, comparações, tendências e alertas para ajudar a interpretar o comportamento dos números.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="ecd" class="py-5 py-lg-6 bg-light">
+        <div class="container py-4">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-6">
+                    <span class="text-primary fw-bold text-uppercase small">Base contábil</span>
+                    <h2 class="display-6 fw-bold mt-2">Comece com a ECD. Enxergue além do arquivo.</h2>
+                    <p class="lead text-secondary">O fluxo do SmartAccounting transforma uma fonte contábil estruturada em informação pronta para exploração, conferência e análise.</p>
+                    <div class="d-grid gap-3 mt-4">
+                        <div class="d-flex gap-3"><span class="check-icon">✓</span><div><strong>Importação organizada</strong><div class="text-secondary">Associe arquivos aos exercícios e empresas correspondentes.</div></div></div>
+                        <div class="d-flex gap-3"><span class="check-icon">✓</span><div><strong>Validação e histórico</strong><div class="text-secondary">Mantenha o controle do processamento e da origem dos dados.</div></div></div>
+                        <div class="d-flex gap-3"><span class="check-icon">✓</span><div><strong>Dados para análise</strong><div class="text-secondary">Prepare a base para relatórios, indicadores e comparativos.</div></div></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="~/site/ecd-flow.svg" alt="Fluxo de importação, validação e análise da ECD" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="analise" class="py-5 py-lg-6">
+        <div class="container py-4">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-6 order-lg-1">
+                    <img class="img-fluid rounded-4 shadow" src="~/site/analytics.svg" alt="Dashboard com indicadores financeiros" />
+                </div>
+                <div class="col-lg-6">
+                    <span class="text-primary fw-bold text-uppercase small">Visão gerencial</span>
+                    <h2 class="display-6 fw-bold mt-2">Números que contam uma história.</h2>
+                    <p class="lead text-secondary">Compare períodos, acompanhe margens e observe tendências sem perder a ligação com a contabilidade.</p>
+                    <div class="d-grid gap-3 mt-4">
+                        <div class="d-flex gap-3 align-items-center"><strong class="fs-2">01</strong><span class="text-secondary">Visão executiva para destacar o que merece atenção.</span></div>
+                        <div class="d-flex gap-3 align-items-center"><strong class="fs-2">02</strong><span class="text-secondary">Indicadores estruturados para acompanhar evolução.</span></div>
+                        <div class="d-flex gap-3 align-items-center"><strong class="fs-2">03</strong><span class="text-secondary">Relatórios que conectam detalhe contábil e contexto.</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="videos" class="py-5 py-lg-6 bg-light">
+        <div class="container py-4">
+            <div class="text-center mx-auto section-heading mb-5">
+                <span class="text-primary fw-bold text-uppercase small">Conteúdo em vídeo</span>
+                <h2 class="display-6 fw-bold mt-2">Veja conceitos de dashboards e análise financeira</h2>
+                <p class="text-secondary lead">Enquanto o vídeo demonstrativo próprio do SmartAccounting é preparado, reunimos referências externas sobre dashboards e análise de dados.</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-7">
+                    <a class="video-card d-block rounded-4 overflow-hidden position-relative" href="https://coverr.co/videos/corporate-strategy-meeting-with-financial-charts" target="_blank" rel="noopener noreferrer">
+                        <img class="img-fluid w-100" src="~/site/video-poster.svg" alt="Vídeo externo sobre dados financeiros" />
+                        <span class="video-play">▶</span>
+                        <div class="video-caption"><strong>Dados financeiros em contexto</strong><small>Vídeo externo · Coverr</small></div>
+                    </a>
+                </div>
+                <div class="col-lg-5">
+                    <a class="video-card d-block rounded-4 overflow-hidden position-relative" href="https://www.classcentral.com/course/youtube-watch-me-build-an-automatic-accounting-dashboard-every-business-needs-one-489820" target="_blank" rel="noopener noreferrer">
+                        <img class="img-fluid w-100" src="~/site/video-poster.svg" alt="Vídeo externo sobre dashboard contábil" />
+                        <span class="video-play">▶</span>
+                        <div class="video-caption"><strong>Construção de um dashboard contábil</strong><small>Vídeo externo · YouTube / Class Central</small></div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-5">
+        <div class="container py-4">
+            <div class="rounded-4 bg-dark text-white p-4 p-lg-5 d-flex flex-column flex-lg-row align-items-lg-center justify-content-between gap-4">
+                <div>
+                    <h2 class="fw-bold">Uma nova forma de olhar para a contabilidade.</h2>
+                    <p class="text-white-50 mb-0">SmartAccounting une ECD, contabilidade, indicadores, relatórios e inteligência analítica em uma única plataforma.</p>
+                </div>
+                <a class="btn btn-light btn-lg text-nowrap" href="/Account/Login">Acessar plataforma</a>
+            </div>
+        </div>
+    </section>
+</main>
