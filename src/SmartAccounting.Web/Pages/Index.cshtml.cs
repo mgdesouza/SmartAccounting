@@ -1,13 +1,10 @@
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SmartAccounting.Web.Pages
+namespace SmartAccounting.Web.Pages;
+
+public class IndexModel : PageModel
 {
-    [Authorize(Policy = "Dashboard.View")]
-    public class IndexModel : PageModel
+    public void OnGet()
     {
-        public void OnGet()
-        {
-        }
     }
 }
