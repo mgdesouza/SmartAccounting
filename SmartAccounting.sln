@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAccounting.Web", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAccounting.Shared", "src\SmartAccounting.Shared\SmartAccounting.Shared.csproj", "{A1B2C3D4-1005-4000-8000-000000000005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAccounting.Api", "src\SmartAccounting.Api\SmartAccounting.Api.csproj", "{A1B2C3D4-1006-4000-8000-000000000006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAccounting.Api.Tests", "tests\SmartAccounting.Api.Tests\SmartAccounting.Api.Tests.csproj", "{A1B2C3D4-1007-4000-8000-000000000007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,5 +42,13 @@ Global
 		{A1B2C3D4-1005-4000-8000-000000000005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B2C3D4-1005-4000-8000-000000000005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B2C3D4-1005-4000-8000-000000000005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-1006-4000-8000-000000000006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-1006-4000-8000-000000000006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-1006-4000-8000-000000000006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-1006-4000-8000-000000000006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-1007-4000-8000-000000000007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-1007-4000-8000-000000000007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-1007-4000-8000-000000000007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-1007-4000-8000-000000000007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
