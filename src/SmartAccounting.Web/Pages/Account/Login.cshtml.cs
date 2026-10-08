@@ -9,10 +9,14 @@ namespace SmartAccounting.Web.Pages.Account;
 public class LoginModel : PageModel
 {
     private readonly SignInManager<ApplicationUser> _signInManager;
+    private readonly UserManager<ApplicationUser> _userManager;
 
-    public LoginModel(SignInManager<ApplicationUser> signInManager)
+    public LoginModel(
+        SignInManager<ApplicationUser> signInManager,
+        UserManager<ApplicationUser> userManager)
     {
         _signInManager = signInManager;
+        _userManager = userManager;
     }
 
     [BindProperty]
@@ -32,8 +36,16 @@ public class LoginModel : PageModel
         if (!ModelState.IsValid)
             return Page();
 
+        var user = await _userManager.FindByEmailAsync(Input.Email);
+
+        if (user is null || !user.Ativo)
+        {
+            ModelState.AddModelError(string.Empty, "E-mail ou senha inválidos.");
+            return Page();
+        }
+
         var result = await _signInManager.PasswordSignInAsync(
-            Input.Email,
+            user,
             Input.Password,
             Input.RememberMe,
             lockoutOnFailure: true);
