@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartAccounting.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a9e62c5d8a935b87f93d9ee7711b9e2eb1d329")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86b0f91169aed5d7c234e429ed8bfcde7b4a301")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartAccounting.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartAccounting.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

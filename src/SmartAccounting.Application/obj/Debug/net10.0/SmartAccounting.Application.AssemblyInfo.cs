@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartAccounting.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d79a39da18b7cc65799b5766412f5a4c6dd03c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86b0f91169aed5d7c234e429ed8bfcde7b4a301")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartAccounting.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartAccounting.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

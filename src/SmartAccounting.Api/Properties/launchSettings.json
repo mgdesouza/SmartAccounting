@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SmartAccounting.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50350;http://localhost:50351"
+    }
+  }
+}

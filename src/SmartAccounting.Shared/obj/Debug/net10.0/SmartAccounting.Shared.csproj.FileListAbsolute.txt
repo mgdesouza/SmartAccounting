@@ -22,3 +22,4 @@ C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartA
 C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\refint\SmartAccounting.Shared.dll
 C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAccounting.Shared.pdb
 C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\ref\SmartAccounting.Shared.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Shared\obj\Debug\net10.0\SmartAcc.0AC32466.Up2Date

@@ -22,3 +22,4 @@ C:\Softwares\SmartAccounting\src\SmartAccounting.Domain\obj\Debug\net10.0\SmartA
 C:\Softwares\SmartAccounting\src\SmartAccounting.Domain\obj\Debug\net10.0\refint\SmartAccounting.Domain.dll
 C:\Softwares\SmartAccounting\src\SmartAccounting.Domain\obj\Debug\net10.0\SmartAccounting.Domain.pdb
 C:\Softwares\SmartAccounting\src\SmartAccounting.Domain\obj\Debug\net10.0\ref\SmartAccounting.Domain.dll
+C:\Softwares\SmartAccounting\src\SmartAccounting.Domain\obj\Debug\net10.0\SmartAcc.B1774F9A.Up2Date
