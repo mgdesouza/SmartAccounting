@@ -40,7 +40,7 @@ public class LoginModel : PageModel
 
         if (user is null || !user.Ativo)
         {
-            ModelState.AddModelError(string.Empty, "E-mail ou senha inválidos.");
+            ModelState.AddModelError(string.Empty, "Usuário ou senha inválidos.");
             return Page();
         }
 
