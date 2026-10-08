@@ -122,10 +122,11 @@
           <p class="login-box-msg">Entre com suas credenciais para iniciar uma sessão.</p>
 
           <form method="post">
+            <input type="hidden" asp-for="ReturnUrl" />
             @Html.AntiForgeryToken()
             <label class="visually-hidden" for="Input_Email">Email</label>
             <div class="input-group mb-3">
-              <input asp-for="Input.Email" id="Input_Email" class="form-control" placeholder="Email" />
+              <input asp-for="Input.Email" id="Input_Email" class="form-control" placeholder="Email" autocomplete="username" />
               <div class="input-group-text">
                 <span class="bi bi-envelope"></span>
               </div>
@@ -134,7 +135,7 @@
 
             <label class="visually-hidden" for="Input_Password">Senha</label>
             <div class="input-group mb-3">
-              <input asp-for="Input.Password" id="Input_Password" class="form-control" placeholder="Password" />
+              <input asp-for="Input.Password" id="Input_Password" class="form-control" placeholder="Senha" autocomplete="current-password" />
               <div class="input-group-text">
                 <span class="bi bi-lock-fill"></span>
               </div>
@@ -166,7 +167,7 @@
 
           <!-- /.social-auth-links -->
           <p class="mb-1">
-            <a href="forgot-password.html">Esqueceu sua senha?</a>
+            <span class="text-muted">A recuperação de senha estará disponível em breve.</span>
           </p>
         </div>
         <!-- /.login-card-body -->
