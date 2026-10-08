@@ -363,7 +363,7 @@
                             <img src="./assets/img/user2-160x160.jpg"
                                  class="user-image rounded-circle shadow"
                                  alt="Alexander Pierce" />
-                            <span class="d-none d-md-inline">Alexander Pierce</span>
+                            <span class="d-none d-md-inline">@User.Identity?.Name</span>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                             <!--begin::User Image-->
@@ -397,7 +397,7 @@
                             <!--begin::Menu Footer-->
                             <li class="user-footer">
                                 <a href="#" class="btn btn-outline-secondary">Profile</a>
-                                <a href="#" class="btn btn-outline-danger float-end">Sign out</a>
+                                <form method="post" asp-page="/Account/Logout" class="d-inline float-end">\n                                    <button type="submit" class="btn btn-outline-danger">Sair</button>\n                                </form>
                             </li>
                             <!--end::Menu Footer-->
                         </ul>
