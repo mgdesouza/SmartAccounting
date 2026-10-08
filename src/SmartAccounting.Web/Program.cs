@@ -3,11 +3,28 @@ using Microsoft.EntityFrameworkCore;
 using SmartAccounting.Infrastructure;
 using SmartAccounting.Infrastructure.Data;
 
-
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddRazorPages();
+
+builder.Services.AddRazorPages(options =>
+{
+    // The Web application is authenticated by default.
+    options.Conventions.AuthorizeFolder("/");
+
+    // Login and logout endpoints must remain accessible without authentication.
+    options.Conventions.AllowAnonymousToPage("/Account/Login");
+    options.Conventions.AllowAnonymousToPage("/Account/Logout");
+});
 
 builder.Services.AddInfrastructure(builder.Configuration);
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Account/Login";
+    options.LogoutPath = "/Account/Logout";
+    options.AccessDeniedPath = "/Account/AccessDenied";
+    options.SlidingExpiration = true;
+    options.ExpireTimeSpan = TimeSpan.FromHours(8);
+});
 
 var app = builder.Build();
 
@@ -34,4 +51,3 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
-
