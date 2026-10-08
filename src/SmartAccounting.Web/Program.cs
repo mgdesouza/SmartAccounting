@@ -13,6 +13,8 @@ builder.Services.AddRazorPages(options =>
     // Login and logout endpoints must remain accessible without authentication.
     options.Conventions.AllowAnonymousToPage("/Account/Login");
     options.Conventions.AllowAnonymousToPage("/Account/Logout");
+    options.Conventions.AllowAnonymousToPage("/Account/AccessDenied");
+    options.Conventions.AllowAnonymousToPage("/Error");
 });
 
 builder.Services.AddInfrastructure(builder.Configuration);
