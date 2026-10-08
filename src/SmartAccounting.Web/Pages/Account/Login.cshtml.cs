@@ -59,7 +59,7 @@ public class LoginModel : PageModel
             return Page();
         }
 
-        ModelState.AddModelError(string.Empty, "E-mail ou senha inválidos.");
+        ModelState.AddModelError(string.Empty, "Usuário ou senha inválidos.");
         return Page();
     }
 
